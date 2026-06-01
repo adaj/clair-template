@@ -107,11 +107,7 @@ interventions, exporting the results to an excel file.
 
 ## License 📜
 
-Clair is an intellectual property from the University of Twente. 
-
-Distribution or usage for commercial purposes without the consent of the University of Twente is not permitted.
-
-> License under construction... 
+Clair's license is Apache 2.0, which means anyone is free to use, modify, distribute, and even commercialize the software, provided they include the original copyright notice and a copy of the license, while accepting that the code is provided 'as is' without any warranties.
 
 
 ## Resources 📚
