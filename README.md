@@ -7,7 +7,7 @@
 Clair is a collaborative conversational agent that uses learning analytics and a fuzzy expert system to trigger productive talk moves to facilitate student-student dialogue based on the [Accountable Talk](https://nsiexchange.org/wp-content/uploads/2019/02/AT-SOURCEBOOK2016-1-23-19.pdf) (or APT) framework.
 
 If you need further support or have any questions, join the Clair community on
-[Slack](https://join.slack.com/t/clair-zfn7400/shared_invite/zt-2duu6tcja-HotOBcUIlEZYwaM4BheMBg).
+[Discord](https://discord.gg/kS3t75pkFZ).
 
 
 ## How to use? 🚀
@@ -124,4 +124,4 @@ For more info on Clair, check out our latest papers:
 
 ## Get involved 💬
 
-Join the Clair community on [Slack](https://join.slack.com/t/clair-zfn7400/shared_invite/zt-2duu6tcja-HotOBcUIlEZYwaM4BheMBg).
+Join the Clair community on [Discord](https://discord.gg/kS3t75pkFZ).
