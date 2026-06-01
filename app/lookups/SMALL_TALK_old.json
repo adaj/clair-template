@@ -1,0 +1,38 @@
+{
+  "EN": [
+    {
+      "id": "dodge_questions",
+      "key": "Dodge questions",
+      "value": "Sorry, I still can't deal with your question. My focus is to ask questions when you are collaborating on the activity. So how do you plan to advance the task?"
+    },
+    {
+      "id": "greetings",
+      "key": "Greetings",
+      "value": "Hi, I'm Clair. I will be following the conversation and will ask you some questions to try to help you discuss the activity together."
+    }
+  ],
+  "PT": [
+    {
+      "id": "dodge_questions",
+      "key": "Desviar de perguntas",
+      "value": "Desculpe, ainda não consigo lidar com sua pergunta. Meu foco é fazer perguntas quando vocês estiverem colaborando sobre a atividade. Como vocês planejam avançar na tarefa?"
+    },
+    {
+      "id": "greetings",
+      "key": "Saudações",
+      "value": "Olá, eu sou Clair. Estarei acompanhando a conversa e farei algumas perguntas para tentar ajudá-los a discutir sobre a atividade juntos."
+    }
+  ],
+  "NL": [
+    {
+      "id": "dodge_questions",
+      "key": "Ontwijk vragen",
+      "value": "Sorry, ik kan je vraag nog niet behandelen. Voorlopig ligt mijn focus op het stellen van vragen als je meewerkt aan de activiteit. Hoe wil je verder met de taak?"
+    },
+    {
+      "id": "greetings",
+      "key": "Groeten",
+      "value": "Hallo, ik ben Clair. Ik zal het gesprek volgen en ik zal jullie enkele vragen stellen om te proberen jullie te helpen de activiteit samen te bespreken."
+    }
+  ]
+}

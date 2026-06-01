@@ -1,0 +1,22 @@
+data_folders:
+  - M:/Datasets/Chats-NL-TW1ST_circuits/
+  - M:/Datasets/Chats-PT-Radiation/
+inputs:
+  - L2C_IN
+  - L2C_AR
+  - L2C_AI
+  - L2C_AM
+  - L2C_NOS
+  - TSIM
+  - TACC
+  - PACE
+  - TIME
+outputs:
+  - autonomy
+  - competence
+  - relatedness
+sensitivity_threshold: 0.75
+silence_window: 3
+repetition_window: 1
+min_words_in_message: 3
+max_words_in_message: 200

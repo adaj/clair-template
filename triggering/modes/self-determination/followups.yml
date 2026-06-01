@@ -1,0 +1,15 @@
+EN:
+  - id: autonomy
+    value:
+      - "Thank you for your response. I appreciate your choice."
+      - "Thanks for steering the conversation. Your response is greatly valued. "
+  
+  - id: competence
+    value:
+      - "Thank you for your contribution, hopefully, this will help your partner understand your point of view. Keep it up!"
+      - "Thank you for your response. Remember, each time you contribute, you're improving your understanding and communication skills. Keep it up!"
+
+  - id: relatedness
+    value:
+      - "Thank you for your contribution, sharing your understanding helps learning from each other."
+      - "This can help bridging understandings, thank you for your contribution."

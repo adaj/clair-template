@@ -1,0 +1,30 @@
+data_folders:
+  - M:/Datasets/Chats-NL-Enzymes/
+inputs:
+  - L1_DOM
+  - L1_COO
+  - L1_OFF
+  - L2C_IN
+  - L2C_AR
+  - L2C_AI
+  - L2C_NOS
+  - TSIM
+  - TACC
+  - TIME
+  - TSLM
+  - TSLQ
+  - L3_CU
+  - L4_SS
+  - COFF
+outputs:
+  - goal1_checkin
+  - goal2_reorienting
+  - goal2_peercoordination
+  - goal2_peerquestioning
+  - goal3_whatif
+  - goal4_pressreasoning
+sensitivity_threshold: 0.75
+silence_window: 2
+repetition_window: 1
+min_words_in_message: 3
+max_words_in_message: 100

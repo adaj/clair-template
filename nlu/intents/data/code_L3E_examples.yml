@@ -1,0 +1,260 @@
+- intent: negative_emotion
+  examples:
+    - You're so stupid!
+    - You son of a bitch.
+    - I hate this class.
+    - This is the worst day ever.
+    - You're such a loser.
+    - This sucks!
+    - This is a shitty idea
+    - I'm so angry right now.
+    - You're ruining everything!
+    - I'm sick of this.
+    - I'm so frustrated!
+    - This is boring and useless.
+    - You always mess things up.
+    - Leave me alone!
+    - I give up. This is hopeless.
+    - You're the worst.
+    - Today is a bad day.
+    - You are so bad
+    - You are saying nonsense
+    - Stop it you bastard
+    - Idiot
+    - You are a bitch
+    - Bitch
+    - You are dumb
+    - This is a stupid task
+    - What an idiot
+    - This is hell
+    - That is the worst idea ever
+    - Shut up
+    - Get away from here
+    - Fuck this
+    - Fuck you
+    - I am so angry
+    - This shit 
+    - Dont do this stupid!
+    - Are you stupid?
+    - You are making a bad joke
+    - Are you kidding me?
+
+- intent: positive_emotion
+  examples:
+    - Great job!
+    - That is pretty cool
+    - You're awesome!
+    - I'm so happy right now!
+    - This is the best day ever!
+    - You're such a good friend.
+    - I love this class!
+    - You make me smile.
+    - I'm really proud of you.
+    - This is so much fun!
+    - You're hilarious!
+    - I'm so excited for the weekend!
+    - You're really talented.
+    - That's amazing news!
+    - I'm feeling super confident today.
+    - You always know how to cheer me up.
+    - I'm so grateful for your help.
+    - This is exactly what I needed!
+    - You're crushing it!
+    - I can't stop smiling!
+    - You're the best!
+    - I'm so lucky to have you as a friend.
+    - This is going to be awesome!
+    - I'm really looking forward to this.
+    - You've made my day!
+    - I'm so relieved it worked out.
+    - You did well
+
+- intent: neutral_statement
+  examples:
+    - I mean
+    - I know
+    - I am
+    - Oh my god
+    - It stays put
+    - I'm sorry about that.
+    - I am not going to do it
+    - Why is that?
+    - If its like this you lose
+    - What the hell?
+    - What the fuck?
+    - WTF
+    - Oh shit
+    - Bitterness
+    - Angryness
+    - Sadness
+    - Confused
+    - That is a bad answer
+    - This is a bad idea
+    - Don't be confused
+    - Don't be sad
+    - Don't be angry
+    - Don't be bitter
+    - Don't be scared
+    - Are you sad?
+    - Are you angry?
+    - Are you bitter?
+    - Are you confused?
+    - Stay silent
+    - I am not going
+    - It seems reasonable.
+    - Stay with me
+    - It's a joke
+    - Now take it down.
+    - No need to be scared.
+    - Draw it for me
+    - The thing stopped
+    - We have this
+    - If it is higher, it will go faster
+    - If it is lower, it will go slower
+    - This is one of those
+    - It's business
+    - I always like that
+    - It's called...
+    - This is a trick
+    - This must be...
+    - Well, it's made up of...
+    - Let's just make sure it's made up of these.
+    - This one
+    - There is...
+    - You know
+    - I am going to have that
+    - It's like you're really getting a break from it.
+    - Now that guy's gone.
+    - If I change it like this.
+    - Because I do it like this.
+    - Well, it's got to do with the bitterness
+    - Put the bitter one higher than none
+    - Oh you always do this
+    - What's the homework for tomorrow?
+    - Can you pass me that pencil?
+    - I think we have a test next week.
+    - What time does the bell ring?
+    - Did you finish the project yet?
+    - I'm not sure about question number five.
+    - Have you seen my notebook?
+    - When is the next club meeting?
+    - Do we need to bring our textbooks tomorrow?
+    - I forgot my lunch at home.
+    - What page are we on?
+    - Is this seat taken?
+    - Can I borrow your eraser?
+    - I think I left my jacket in the gym.
+    - Are we allowed to use calculators on the test?
+    - Did you understand what the teacher said?
+    - I need to go to my locker before next class.
+    - What's for lunch in the cafeteria today?
+    - Can you show me how to solve this problem?
+    - I'm not sure if I'll make it to the game tonight.
+    - Do you know when report cards come out?
+    - I think I might join the debate team.
+    - Have you started working on your essay yet?
+    - What did you get for number three?
+    - Is the library open after school today?
+    - No, we are not done yet.
+    - Not bad, but could be better.
+    - I don't disagree with your point.
+    - That's not a bad idea, but let's explore other options.
+    - Not necessarily. There could be other factors involved.
+    - I'm not sure that's the best approach, but it's worth considering.
+    - It's not perfect, but it's a good starting point.
+    - We're not there yet, but we're making progress.
+    - I can't say for certain, but it seems plausible.
+    - Not everyone agrees with this theory, but it has some merit.
+    - They are not afraid
+    - It will hit his head
+    - This is not it
+    - Like there is nothing there
+    - So, isn't that right?
+    - Okay, I guess it was left there
+    - I just pulled it to zero.
+    - Not when we're done
+    - Not at all.
+    - Isnt that right?
+    - What is this? 
+    - Nothing at all.
+    - It's better than none
+    - The thing is slowing down
+    - It is just that
+    - Hi
+    - oh I see
+    - now go ahead
+    - I think in the text
+    - no, he's already doing it
+    - not with me
+    - you just have to make assignments now
+    - I think instead of this it should be that
+    - No, only one is needed I think
+    - no no wait
+    - only change I see is the degrees
+    - Now I see it's going up
+    - you have to check if it contains or not
+    - but is that little or not?
+    - oh yeah, I see it now
+    - Let's review this part again
+    - Checking the results once more
+    - Revisiting our hypothesis now
+    - Going over the data again
+    - We should double-check this
+    - Time to verify our findings
+    - Let's reassess our approach
+    - Need to reconsider this section
+    - Re-evaluating our experiment setup
+    - Taking another look at this
+    - Reviewing the calculations one more time
+    - Cross-checking the figures now
+    - Reanalyzing the data points
+    - Let's recap what we've done
+    - Going back over our notes
+    - Revising our current understanding
+    - Time for a quick recap
+    - Let's summarize our progress
+    - Reflecting on our method so far
+    - Pausing for a thorough review
+    - I guess that's part of the process
+    - That it's not a total loss
+    - I feel like we are almost there
+    - I wouldn't say I'm an expert, but I'm definitely getting better
+    - I've read the chapter, but I'm still processing the information
+    - We've covered a lot today, and it's a lot to take in
+    - I see different possibilities here, each with its own merits
+    - It seems like we're making progress, though there's much to do
+    - I'm going through the data, trying to make sense of the patterns
+    - We're halfway through our timeline; let's assess where we stand
+    - I've completed my part of the project; what's next?
+    - This topic is quite complex, and we need to delve deeper
+    - We've been working hard, and it's important to stay focused
+    - I'm reviewing what we discussed last week to catch up
+    - Our project has multiple components that we need to integrate
+    - I'm familiar with this concept, but applying it is a different story
+    - It's challenging to correlate all these factors
+    - I'm trying to align my understanding with the group's ideas
+    - Our experiment has several stages, each important in its own right
+    - I've noticed some trends, but I'm not drawing conclusions yet
+    - This subject is new to me, so I'm learning as I go
+    - We seem to be on the right track, but there's room for improvement
+    - I've gathered the necessary resources, but I haven't analyzed them yet
+    - What's the next step in our experiment?
+    - Can someone clarify the objective of this task?
+    - Who has the data from yesterday's survey?
+    - We should schedule a meeting to discuss our findings
+    - What does the textbook say about this theory?
+    - How does this hypothesis compare to our initial assumptions?
+    - We need to compile the results for a comprehensive analysis
+    - What are the key variables in our study?
+    - Who is responsible for documenting the project progress?
+    - Let's distribute the tasks evenly among the team
+    - Can we look at some examples for a better understanding?
+    - It's important to verify the accuracy of these measurements
+    - We should review the literature to find more relevant information
+    - What resources can we use to support our hypothesis?
+    - How do we plan to test the validity of this model?
+    - It might be helpful to create a timeline for our project milestones
+    - Can we brainstorm some potential solutions to this challenge?
+    - What are the criteria for evaluating our project's success?
+    - We need to ensure that all team members understand their roles
+    - Let's summarize our findings before the next phase

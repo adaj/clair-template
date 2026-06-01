@@ -1,0 +1,15 @@
+EN:
+  - id: autonomy
+    key: Autonomy support
+    value:
+      - "<speaker>, could you elaborate on this or give an example to your partner? Or would you rather continue with the conversation? I appreciate your choice."
+  
+  - id: competence
+    key: Competence support
+    value:
+      - "<speaker>, how does this connect with what we have discussed so far?"
+
+  - id: relatedness
+    key: Relatedness support
+    value:
+      - "<discussant>, how do your ideas match or differ from your partner's ideas? What else would you like to add?"

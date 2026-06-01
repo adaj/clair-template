@@ -1,0 +1,249 @@
+EN:
+  - id: build_on_prior_knowledge
+    key: Build on prior knowledge
+    value:
+      - "<speaker>, how does this expand what <discussant> have said so far?"
+      - "<speaker>, how does this add to everything <discussant> talked so far?"
+      - "<speaker>, how does this add to what <discussant> already said?"
+  - id: expand_reasoning
+    key: Expand reasoning
+    value:
+      - "<speaker>, could you please elaborate more on this?"
+      - "<speaker>, could you please provide more details?"
+      - "<speaker>, could you please expand this idea?"
+  - id: agree_disagree
+    key: Agree/Disagree
+    value:
+      - "<discussant>, do you agree or disagree with your partner?"
+      - "<discussant>, do you share your partner's opinion?"
+      - "<discussant>, are you in agreement or disagreement with your partner?"
+  - id: linking_contributions
+    key: Linking contributions
+    value:
+      - "<discussant>, how does your ideas align with what <speaker> just said?"
+      - "<discussant>, considering what <speaker> just said, how does your idea fit in?"
+      - "<discussant>, in what way does your ideas complement what <speaker> just said?"
+  - id: recapping
+    key: Recapping
+    value:
+      - "This conversation is interesting. Would any of you be able to give a brief summary of what you've covered so far?"
+      - "This is a fascinating conversation. Would any of you be able to give a brief summary of what you've covered so far?"
+      - "This conversation is interesting. Would any of you like to try to give a summary of what you have covered so far?"
+  - id: example
+    key: Example
+    value:
+      - "<speaker>, could you give an example?"
+      - "<speaker>, could you exemplify?"
+      - "<speaker>, could you provide a concrete example?"
+  - id: rephrasing
+    key: Rephrasing
+    value:
+      - "<discussant>, could you put in other words what your partner just said?"
+      - "<discussant>, could you describe what your partner just said in your own words, please?"
+      - "<discussant>, please give your own interpretation of what your partner just said."
+  - id: add_on
+    key: Add-on
+    value:
+      - "<discussant>, would you like to add something to what your partner just said?"
+      - "<discussant>, do you have anything to add to what your partner just said?"
+      - "<discussant>, to what your partner just mentioned, would you like to add anything?"
+
+PT:
+  - id: build_on_prior_knowledge
+    key: Construir sobre conhecimento prévio
+    value:
+      - "<speaker>, como isso se expande o que <discussant> tem dito até agora?"
+      - "<speaker>, como isso acrescenta a tudo o que <discussant> falou até agora?"
+      - "<speaker>, como isso expande o que <discussant> já disse até agora?"
+  - id: expand_reasoning
+    key: Expandir o raciocínio
+    value:
+      - "<speaker>, você poderia elaborar mais sobre isso?"
+      - "<speaker>, você poderia fornecer mais detalhes?"
+      - "<speaker>, você poderia, por favor, expandir esta ideia?"
+  - id: agree_disagree
+    key: Concordar/discordar
+    value:
+      - "<discussant>, você concorda ou discorda com seu parceiro?"
+      - "<discussant>, você compartilha ou não a opinião de seu parceiro?"
+      - "<discussant>, você está de acordo ou não com seu parceiro?"
+  - id: linking_contributions
+    key: Vincular contribuições
+    value:
+      - "<discussant>, como suas ideias se alinham com o que <speaker> acabou de dizer?"
+      - "<discussant>, considerando o que <speaker> acabou de dizer, como suas ideias podem complementar?"
+      - "<discussant>, de que forma suas ideias complementam o que <speaker> acabou de dizer?"
+  - id: recapping
+    key: Recapitular
+    value:
+      - "Esta conversa é interessante. Algum de vocês seria capaz de fazer um breve resumo do que foi abordado até agora?"
+      - "Esta é uma conversa fascinante. Algum de vocês seria capaz de fazer um breve resumo do que foi abordado até o momento?"
+      - "Esta conversa é interessante. Algum de vocês gostaria de tentar fazer um breve resumo do que foi abordado até agora?"
+  - id: example
+    key: Exemplificar
+    value:
+      - "<speaker>, você poderia dar um exemplo?"
+      - "<speaker>, você poderia exemplificar?"
+      - "<speaker>, você poderia dar um exemplo concreto?"
+  - id: rephrasing
+    key: Refrasear
+    value:
+      - "<discussant>, você poderia colocar em outras palavras o que seu parceiro acabou de dizer?"
+      - "<discussant>, você poderia descrever o que seu parceiro acabou de dizer em suas próprias palavras, por favor?"
+      - "<discussant>, por favor, dê sua própria interpretação do que o seu parceiro acabou de dizer."
+  - id: add_on
+    key: Complementar
+    value:
+      - "<discussant>, você gostaria de acrescentar algo ao que seu parceiro acabou de dizer?"
+      - "<discussant>, você tem algo a acrescentar ao que o seu parceiro acabou de dizer?"
+      - "<discussant>, ao que seu parceiro acabou de mencionar, você gostaria de adicionar alguma coisa?"
+
+NL:
+  - id: build_on_prior_knowledge
+    key: Voortbouwen op voorkennis
+    value:
+      - "<speaker>, hoe bouwt wat je net zeg voort op wat <discussant> tot nu toe heeft gezegd?"
+      - "<speaker>, wat voegt dit toe aan alles wat <discussant> tot nu toe heeft gezegd?"
+      - "<speaker>, wat voegt dit toe aan wat <discussant> al gezegd heeft?"
+  - id: expand_reasoning
+    key: Uitbreiden redenering
+    value:
+      - "<speaker>, kun je hier in de chat dieper op ingaan?"
+      - "<speaker>, zou je nog meer details kunnen geven?"
+      - "<speaker>, zou je dit idee willen uitbreiden in de chat?"
+  - id: agree_disagree
+    key: Mee eens/niet mee eens
+    value:
+      - "<discussant>, bent je het eens of oneens met uw partner?"
+      - "<discussant>, deelt je de mening van uw partner of toch niet?"
+      - "<discussant>, heeft je partner nu gelijk of ongelijk?"
+  - id: linking_contributions
+    key: Bijdragen koppelen
+    value:
+      - "<discussant>, hoe sluiten jouw ideeën aan bij wat <speaker> net zei?"
+      - "<discussant>, als je leest wat <speaker> net in de chat schreef, hoe passen je eigen ideeën daarin?"
+      - "<discussant>, op welke manier vullen jouw ideeën aan wat <speaker> net in de chat zei?"
+  - id: recapping
+    key: Recapping
+    value:
+      - "Dit gesprek is interessant. Zou iemand van jullie in staat zijn om een korte samenvatting te geven van wat jullie tot nu toe hebben behandeld?"
+      - "Dit is een boeiend gesprek. Kan iemand van jullie een korte samenvatting geven van wat jullie tot nu toe behandeld hebben?"
+      - "Dit gesprek is interessant. Zou iemand van jullie willen proberen om een samenvatting te geven van wat jullie tot nu toe hebben behandeld?"
+  - id: example
+    key: Voorbeeld
+    value:
+      - "<speaker>, zou je een voorbeeld kunnen geven?"
+      - "<speaker>, zou je wat je net gezegd hebt met een voorbeeld kunnen verduidelijken?"
+      - "<speaker>, zou je een specifiek voorbeeld kunnen geven?"
+  - id: rephrasing
+    key: Herformuleren
+    value:
+      - "<discussant>, kun je in andere woorden weergeven wat je partner zojuist zei?"
+      - "<discussant>, kun je in je eigen woorden beschrijven wat uw partner zojuist zei?"
+      - "<discussant>, wat is je eigen interpretatie van wat je partner zojuist heeft gezegd."
+  - id: add_on
+    key: Toevoeging
+    value:
+      - "<discussant>, wil je nog iets toevoegen aan wat je partner net zei?"
+      - "<discussant>, heb je nog iets toe te voegen aan wat je partner net in de chat zette?"
+      - "<discussant>, wil je nog iets toevoegen aan wat je partner net zei?"
+
+ZH:
+  - id: build_on_prior_knowledge
+    key: Build on prior knowledge
+    value:
+      - "<speaker>，你是否有什麼樣子的想法，幫助我們更深入理解<discussant>剛剛所談論的內容呢？"
+      - "<speaker>，你能不能幫我們補充一下<discussant>所提到的觀點呢？"
+      - "<speaker>，你覺得<discussant>的話和你的想法有什麼不一樣的地方呢？"
+  - id: expand_reasoning
+    key: Expand reasoning
+    value:
+      - "<speaker>，你能不能多解釋一點這個想法？"
+      - "<speaker>，你是否能提供更多的細節呢？"
+      - "<speaker>，你可以進一步發展這個想法嗎？"
+  - id: agree_disagree
+    key: Agree/Disagree
+    value:
+      - "<discussant>，你覺得你同學的想法對不對？"
+      - "<discussant>，你的想法和你同學的一樣嗎？"
+      - "<discussant>，你對你同學的看法有什麼不同的想法嗎？"
+  - id: linking_contributions
+    key: Linking contributions
+    value:
+      - "<discussant>，你覺得你的想法和<speaker>剛說的有什麼相似之處？"
+      - "<discussant>，根據<speaker>剛剛的講述，你認為你的想法怎麼跟他的想法結合起來呢？"
+      - "<discussant>你的想法是否能補充<speaker>剛剛提到的部分呢？"
+  - id: recapping
+    key: Recapping
+    value:
+      - "大家剛才的討論很棒。有誰可以幫忙總結一下我們討論了那些內容呢？"
+      - "這次的討論真的很精彩。有沒有人能簡單回想一下我們講了些什麼內容呢？"
+      - "這次的談話很有趣。有人想試看看總結一下我們目前為止所討論過的內容嗎？"
+  - id: example
+    key: Example
+    value:
+      - "<speaker>，你能舉例說明一下嗎？"
+      - "<speaker>，你可以用一個例子來說明你的想法嗎？"
+      - "<speaker>，你能提供一個具體的例子嗎？"
+  - id: rephrasing
+    key: Rephrasing
+    value:
+      - "<discussant>，你能用另一種方式解釋一下你同學剛說的嗎？"
+      - "<discussant>，試試看用你的話來描述一下你同學剛剛的意思好嗎？"
+      - "<discussant>，你怎麼理解你同學剛才說的話？能說說看嗎？"
+  - id: add_on
+    key: Add-on
+    value:
+      - "<discussant>對於你同學剛才的發言，你有什麼想要補充的嗎？"
+      - "<discussant>對於你同學剛剛所說的，你有其他想法或補充的內容嗎？"
+      - "<discussant>對於你同學剛提到的觀點，你想要加上什麼意見或資訊嗎？"
+
+DE:
+  - id: build_on_prior_knowledge
+    key: Build on prior knowledge
+    value:
+      - "<speaker>, wie erweitert dies, was <discussant> bisher gesagt hat?"
+      - "<speaker>, wie trägt dies zu allem bei, worüber <discussant> bisher gesprochen hat?"
+      - "<speaker>, wie fügt sich diesin das hinzu, was <discussant> bereits gesagt hat?"
+  - id: expand_reasoning
+    key: Expand reasoning
+    value:
+      - "<speaker>, kannst du darauf bitte genauer eingehen?"
+      - "<speaker>, kannst du noch ein paar mehr Details nennen?"
+      - "<speaker>, kannst du deine Idee bitte weiter ausführen?"
+  - id: agree_disagree
+    key: Agree/Disagree
+    value:
+      - "<discussant>, stimmst Du deinem Partner zu oder nicht?"
+      - "<discussant>, teilst Du die Meinung deines Partners?"
+      - "<discussant>, bist Du mit deinem Partner einverstanden oder nicht?"
+  - id: linking_contributions
+    key: Linking contributions
+    value:
+      - "<discussant>, wie stimmen deine Ideen mit dem überein, was <speaker> gerade gesagt hat?"
+      - "<discussant>, wenn man berücksichtigt, was <speaker> gerade gesagt hat, wie passt deine Idee dazu?"
+      - "<discussant>, auf welche weise ergänzen sich deine Ideen mit dem, was <speaker> gerade gesagt hat?"
+  - id: recapping
+    key: Recapping
+    value:
+      - "Diese Unterhaltung ist interessant. Kann einer von euch eine kurze Zusammenfassung geben, worüber wir bisher gesprochen haben?"
+      - "Das ist eine faszinierende Unterhaltung. Könnte einer von euch eine kurze Zusammenfassung dessen geben, was wir bisher behandelt haben?"
+      - "Diese Unterhaltung ist interessant. Möchte einer von euch versuchen, eine Zusammenfassung dessen zu geben, was wir bisher besprochen haben?"
+  - id: example
+    key: Example
+    value:
+      - "<speaker>, kannst Du ein Beispiel dazu geben?"
+      - "<speaker>, kannst Du das anhand eines Beispiels verdeutlichen?"
+      - "<speaker>, kannst Du ein konkretes Beispiel geben?"
+  - id: rephrasing
+    key: Rephrasing
+    value:
+      - "<discussant>, kannst Du in anderen Worten wiedergeben, was dein Partner gerade gesagt hat?"
+      - "<discussant>, kannst du bitte in deinen eigenen Worten beschreiben, was dein Partner gerade gesagt hat?"
+      - "<discussant>, kannst du deine eigene Interpretation dessen geben, was dein Partner gerade gesagt hat?"
+  - id: add_on
+    key: Add-on
+    value:
+      - "<discussant>, möchtest Du dem etwas hinzufügen, was dein Partner gerade gesagt hat?"
+      - "<discussant>, hast du etwas zu dem hinzuzufügen, was dein Partner gerade gesagt hat?"
+      - "<discussant>, möchtest Du dem, was dein artner gerade gesagt hat noch etwas hinzufügen?"

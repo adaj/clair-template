@@ -1,0 +1,70 @@
+- name: cognitive__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L3_CU:
+    - high
+    FCD:
+    - high
+    - medium
+  consequent:
+    cognitive: active
+
+- name: metacognitive__rule0
+  antecedents:
+    L1_COO:
+    - high
+    L3_CU:
+    - high
+    FCC:
+    - high
+    - medium
+  consequent:
+    metacognitive: active
+
+- name: behavioral__rule0
+  antecedents:
+    GINI:
+    - high
+    - medium
+    TIME:
+    - medium
+    - high
+  consequent:
+    behavioral: active
+
+- name: socio_emotional__rule0
+  antecedents:
+    L3_NE:
+    - high
+    FNE:
+    - high
+  consequent:
+    socio_emotional: active
+
+- name: shared_perspective__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L3_IP:
+    - high
+    FIP:
+    - high
+    - medium
+    TIME:
+    - medium
+    - high
+  consequent:
+    shared_perspective: active
+
+- name: no_action_L2C__rule0
+  antecedents:
+    L2C_NOS:
+    - high
+    - medium
+  consequent:
+    cognitive: not_active
+    behavioral: not_active
+    metacognitive: not_active
+    socio_emotional: not_active
+    shared_perspective: not_active

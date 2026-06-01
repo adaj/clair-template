@@ -1,0 +1,39 @@
+version: '3.3'
+
+services:
+  clair:
+    container_name: clair
+    image: clair:v0.4.2
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongo-db
+    restart: always
+    environment:
+      - MONGO_URI=mongodb://mongo-db:27017/
+    networks:
+      - clair-network
+
+  # streamlit:
+  #   container_name: streamlit
+  #   image: streamlit:v0.1
+  #   ports:
+  #     - "8501:8501"
+  #     - "8502:8502"
+  #     - "8503:8503"
+  #   restart: always
+  #   environment:
+  #     - CLAIR_URL=https://next-lab-test.bms.utwente.nl/chatBot
+
+  mongo-db:
+    container_name: mongo-db
+    image: mongo:5.0
+    restart: always
+    volumes:
+      - ./mongo-data:/data/db
+    networks:
+      - clair-network
+
+networks:
+  clair-network:
+    driver: bridge

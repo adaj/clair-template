@@ -1,0 +1,47 @@
+EN:
+  greetings: "Hi everyone, my name is Clair. To facilitate discussion with your partner, I'll occasionally pose questions."
+  ping: "Yes, I'm still here."
+  how_are_you: "I'm fine, thanks for asking."
+  who_are_you: "My name is Clair, I'm a computer program and my goal is to help discussions become productive."
+  ask_support: "What kind of help do you need? Try asking your partner."
+  ask_content: "Sorry, but I don't know enough to answer this question."
+
+NL:
+  greetings: "Hallo allemaal, mijn naam is Clair. Om de discussie met je partner te helpen zal ik af en toe een vraag aan jullie stellen."
+  ping: "Ja, ik ben er nog."
+  how_are_you: "Met mij gaat het goed, bedankt dat je het vraagt."
+  who_are_you: "Mijn naam is Clair, ik ben een computerprogramma en mijn doel is om discussies tussen mensen productiever te maken."
+  ask_support: "Wat voor hulp heb je nodig? Probeer het eens bij je partner."
+  ask_content: "Sorry, maar ik heb niet de juiste kennis om deze vraag te beantwoorden."
+
+PT:
+  greetings: "Olá a todos, meu nome é Clair. De vez em quando, vou fazer algumas perguntas para facilitar a discussão."
+  ping: "Sim, ainda estou aqui."
+  how_are_you: "Estou bem, obrigada por perguntar."
+  who_are_you: "Meu nome é Clair, sou um programa de computador e meu objetivo é ajudar as discussões a serem produtivas."
+  ask_support: "Que tipo de ajuda você precisa? Por favor, tente perguntar ao seu colega."
+  ask_content: "Desculpa, mas não sei o suficiente para responder a essa pergunta."
+
+ES:
+  greetings: "Hola a todos, mi nombre es Clair. Para facilitar la discusión con tu compañero(a), ocasionalmente haré preguntas."
+  ping: "Sí, todavía estoy aquí."
+  how_are_you: "Estoy bien, gracias por preguntar."
+  who_are_you: "Mi nombre es Clair, soy un programa de computadora y mi objetivo es ayudar a que las discusiones sean productivas."
+  ask_support: "¿Qué tipo de ayuda necesitas? Por favor, intenta preguntarle a tu compañero(a)."
+  ask_content: "Lo siento, pero no sé lo suficiente para responder a esta pregunta."
+
+DE:
+  greetings: "Hallo zusammen, mein Name ist Clair. Um die Diskussion mit Ihrem Partner zu erleichtern, stelle ich gelegentlich Fragen."
+  ping: "Ja, ich bin immer noch hier."
+  how_are_you: "Mir geht es gut, danke der Nachfrage."
+  who_are_you: "Mein Name ist Clair, ich bin ein Computerprogramm und mein Ziel ist es, Diskussionen produktiv zu machen."
+  ask_support: "Welche Art von Hilfe benötigen Sie? Bitte fragen Sie Ihren Partner oder den Lehrer."
+  ask_content: "Tut mir leid, aber ich weiß nicht genug, um diese Frage zu beantworten."
+
+ZH:
+  greetings: "大家好，我是Clair。為了促進您與夥伴的討論，我偶爾會提出一些問題。"
+  ping: "是的，我還在這裡。"
+  how_are_you: "我很好，謝謝您的詢問。"
+  who_are_you: "我Clair，我是一個電腦程式，我的目標是幫助討論變得更有效率。"
+  ask_support: "您需要什麼樣的幫助？請嘗試詢問您的夥伴。"
+  ask_content: "很抱歉，我對這個問題知道的還不夠。"

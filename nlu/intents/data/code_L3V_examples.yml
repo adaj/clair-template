@@ -1,0 +1,161 @@
+- intent: negative_valence
+  examples:
+    - I think I'm missing something.
+    - This is really confusing.
+    - I feel like I'm falling behind everyone else.
+    - This is way harder than I thought it would be.
+    - I'm not getting this.
+    - I can't make sense of this.
+    - This part doesn't add up.
+    - I don't think this is correct.
+    - We might be missing something.
+    - I don't see the connection.
+    - Our approach might be flawed.
+    - I can't follow this logic.
+    - We're on the wrong track.
+    - I don't agree with this method.
+    - This isn't aligning with our theory.
+    - I'm lost.
+    - I don't understand what's going on.
+    - Can someone please explain this again?
+    - I'm having trouble with this.
+    - This is going over my head.
+    - I can't keep up.
+    - I'm struggling to understand.
+    - This is too difficult for me.
+    - I need some help.
+    - We are using the wrong method
+    - We are stuck right now
+
+- intent: positive_valence
+  examples:
+    - This makes perfect sense!
+    - I think we're on track.
+    - I see the connection now.
+    - The results are as expected.
+    - I can follow this logic.
+    - We're definitely on the right track.
+    - This aligns with our theory.
+    - I feel like we are almost there.
+    - I wouldn't say I'm an expert, but I'm definitely getting better.
+    - I see different possibilities here, each with its own merits.
+    - It seems like we're making progress, though there's much to do.
+    - I'm trying to align my understanding with the group's ideas.
+    - I think I get it now.
+    - This is starting to make sense.
+    - I'm getting the hang of this.
+    - I see what you mean.
+    - That's a good explanation.
+    - I understand it better now.
+    - Thanks for clearing that up.
+    - I'm learning a lot.
+    - I'm glad we're doing this.
+    - I'm excited to see what we find.
+    - I think we're making good progress.
+    - I'm confident we can figure this out.
+    
+- intent: neutral statement
+  examples:
+    - No, we are not done yet.
+    - Not bad, but could be better.
+    - I don't disagree with your point.
+    - That's not a bad idea, but let's explore other options.
+    - Not necessarily. There could be other factors involved.
+    - I'm not sure that's the best approach, but it's worth considering.
+    - It's not perfect, but it's a good starting point.
+    - We're not there yet, but we're making progress.
+    - I can't say for certain, but it seems plausible.
+    - Not everyone agrees with this theory, but it has some merit.
+    - They are not afraid
+    - It will hit his head
+    - This is not it
+    - Like there is nothing there
+    - So, isn't that right?
+    - Okay, I guess it was left there
+    - I just pulled it to zero.
+    - Not when we're done
+    - Not at all.
+    - Isnt that right?
+    - What is this? 
+    - Nothing at all.
+    - It's better than none
+    - The thing is slowing down
+    - It is just that
+    - Hi
+    - oh I see
+    - now go ahead
+    - I think in the text
+    - no, he's already doing it
+    - not with me
+    - you just have to make assignments now
+    - I think instead of this it should be that
+    - No, only one is needed I think
+    - no no wait
+    - only change I see is the degrees
+    - Now I see it's going up
+    - you have to check if it contains or not
+    - but is that little or not?
+    - oh yeah, I see it now
+    - Let's review this part again
+    - Checking the results once more
+    - Revisiting our hypothesis now
+    - Going over the data again
+    - We should double-check this
+    - Time to verify our findings
+    - Let's reassess our approach
+    - Need to reconsider this section
+    - Re-evaluating our experiment setup
+    - Taking another look at this
+    - Reviewing the calculations one more time
+    - Cross-checking the figures now
+    - Reanalyzing the data points
+    - Let's recap what we've done
+    - Going back over our notes
+    - Revising our current understanding
+    - Time for a quick recap
+    - Let's summarize our progress
+    - Reflecting on our method so far
+    - Pausing for a thorough review
+    - I guess that's part of the process
+    - That it's not a total loss
+    - I feel like we are almost there
+    - I wouldn't say I'm an expert, but I'm definitely getting better
+    - I've read the chapter, but I'm still processing the information
+    - We've covered a lot today, and it's a lot to take in
+    - I see different possibilities here, each with its own merits
+    - It seems like we're making progress, though there's much to do
+    - I'm going through the data, trying to make sense of the patterns
+    - We're halfway through our timeline; let's assess where we stand
+    - I've completed my part of the project; what's next?
+    - This topic is quite complex, and we need to delve deeper
+    - We've been working hard, and it's important to stay focused
+    - I'm reviewing what we discussed last week to catch up
+    - Our project has multiple components that we need to integrate
+    - I'm familiar with this concept, but applying it is a different story
+    - It's challenging to correlate all these factors
+    - I'm trying to align my understanding with the group's ideas
+    - Our experiment has several stages, each important in its own right
+    - I've noticed some trends, but I'm not drawing conclusions yet
+    - This subject is new to me, so I'm learning as I go
+    - We seem to be on the right track, but there's room for improvement
+    - I've gathered the necessary resources, but I haven't analyzed them yet
+    - What's the next step in our experiment?
+    - Can someone clarify the objective of this task?
+    - Who has the data from yesterday's survey?
+    - We should schedule a meeting to discuss our findings
+    - What does the textbook say about this theory?
+    - How does this hypothesis compare to our initial assumptions?
+    - We need to compile the results for a comprehensive analysis
+    - What are the key variables in our study?
+    - Who is responsible for documenting the project progress?
+    - Let's distribute the tasks evenly among the team
+    - Can we look at some examples for a better understanding?
+    - It's important to verify the accuracy of these measurements
+    - We should review the literature to find more relevant information
+    - What resources can we use to support our hypothesis?
+    - How do we plan to test the validity of this model?
+    - It might be helpful to create a timeline for our project milestones
+    - Can we brainstorm some potential solutions to this challenge?
+    - What are the criteria for evaluating our project's success?
+    - We need to ensure that all team members understand their roles
+    - Let's summarize our findings before the next phase

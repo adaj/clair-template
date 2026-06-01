@@ -1,0 +1,234 @@
+- name: L2C_IN
+  range:
+  - 0
+  - 1
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 0
+    - 0
+    - 0.2834499944001436
+    - 0.5275999903678894
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 0.03929999843239784
+    - 0.2834499944001436
+    - 0.7307499945163727
+    - 0.933899998664856
+  - name: high
+    fn: trapmf
+    abcd:
+    - 0.5275999903678894
+    - 0.7307499945163727
+    - 1
+    - 1
+- name: L2C_AR
+  range:
+  - 0
+  - 1
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 0
+    - 0
+    - 0.16290000081062317
+    - 0.28700000047683716
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 0.03880000114440918
+    - 0.16290000081062317
+    - 0.5845499932765961
+    - 0.882099986076355
+  - name: high
+    fn: trapmf
+    abcd:
+    - 0.28700000047683716
+    - 0.5845499932765961
+    - 1
+    - 1
+- name: L2C_AI
+  range:
+  - 0
+  - 1
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 0
+    - 0
+    - 0.2371500013396144
+    - 0.46320000290870667
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 0.011099999770522118
+    - 0.2371500013396144
+    - 0.713000014424324
+    - 0.9628000259399414
+  - name: high
+    fn: trapmf
+    abcd:
+    - 0.46320000290870667
+    - 0.713000014424324
+    - 1
+    - 1
+- name: L2C_AM
+  range:
+  - 0
+  - 1
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 0
+    - 0
+    - 0.10250000283122063
+    - 0.17900000512599945
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 0.026000000536441803
+    - 0.10250000283122063
+    - 0.5419000014662743
+    - 0.9047999978065491
+  - name: high
+    fn: trapmf
+    abcd:
+    - 0.17900000512599945
+    - 0.5419000014662743
+    - 1
+    - 1
+- name: L2C_NOS
+  range:
+  - 0
+  - 1
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 0
+    - 0
+    - 0.23564999923110008
+    - 0.4311999976634979
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 0.04010000079870224
+    - 0.23564999923110008
+    - 0.6890500038862228
+    - 0.9469000101089478
+  - name: high
+    fn: trapmf
+    abcd:
+    - 0.4311999976634979
+    - 0.6890500038862228
+    - 1
+    - 1
+- name: TSIM
+  range:
+  - 0
+  - 1
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 0
+    - 0
+    - 0.056049999999999996
+    - 0.1064
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 0.0057
+    - 0.056049999999999996
+    - 0.1981
+    - 0.2898
+  - name: high
+    fn: trapmf
+    abcd:
+    - 0.1064
+    - 0.1981
+    - 1
+    - 1
+- name: TACC
+  range:
+  - 0
+  - 1
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 0
+    - 0
+    - 0.3658
+    - 0.5235
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 0.2081
+    - 0.3658
+    - 0.7261
+    - 0.9287
+  - name: high
+    fn: trapmf
+    abcd:
+    - 0.5235
+    - 0.7261
+    - 1
+    - 1
+- name: PACE
+  range:
+  - 0
+  - 169
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 0
+    - 0
+    - 28.447599999999998
+    - 55.0975
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 1.7977
+    - 28.447599999999998
+    - 96.1779
+    - 137.2583
+  - name: high
+    fn: trapmf
+    abcd:
+    - 55.0975
+    - 96.1779
+    - 169
+    - 169
+- name: TIME
+  range:
+  - 1
+  - 5204
+  terms:
+  - name: low
+    fn: trapmf
+    abcd:
+    - 1
+    - 1
+    - 972.8028
+    - 1471.747
+  - name: medium
+    fn: trapmf
+    abcd:
+    - 473.8586
+    - 972.8028
+    - 2057.629
+    - 2643.511
+  - name: high
+    fn: trapmf
+    abcd:
+    - 1471.747
+    - 2057.629
+    - 5204
+    - 5204

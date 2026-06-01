@@ -1,0 +1,354 @@
+- intent: individual perspective
+  examples:
+    - I am not going to do it
+    - It's on the other way.
+    - It's the reason.
+    - Like there's nothing in it.
+    - yes, I think so too
+    - I agree with you
+    - It is going that way.
+    - I'm leaning towards a more conservative approach
+    - I like our discussion
+    - The answer is 3
+    - In my opinion
+    - I don't think so
+    - It is obvious
+    - If ..., then ...
+    - I'm not sure about this
+    - As far as I can tell
+    - That is because
+    - That seems to be the case
+    - This is true
+    - I disagree
+    - It stays the same
+    - That is good
+    - I think he will understand
+    - I've always thought
+    - This is too much I think
+    - I think that
+    - I think they gave it to me.
+    - I don't know the answer
+    - I know that
+    - Yes you are
+    - That's cool
+    - I mean, it's just
+    - I think this should be it, because that's what we say previously
+    - The total is maintained
+    - You are
+    - It's nice to get into that
+    - It is random
+    - That is the same
+    - It stays the same
+    - It changes
+    - I mean, it's not like that
+    - There is nothing here
+    - The chapter mentions two theories
+    - The article discusses recent developments
+    - The data shows these numbers
+    - This formula needs to be applied
+    - Could you explain that again?
+    - This doesn't look right
+    - That's interesting
+    - That's different
+    - It is just going up    
+    - only the bottom one is needed
+    - yes I have to say then
+    - It seems to me that there is a better way to handle this
+    - The instructions suggest using two methods
+    - I understand the process, but I'm wondering about its efficiency in our case
+    - I just thought when you get there, it's gonna be like that
+    - from what I can tell, this isn't gonna work
+    - the way I see it, we're doing this wrong
+    - I feel like we're missing something here
+    - honestly I don't think that's right
+    - in my experience, that never works
+    - I'm pretty sure we should do it differently
+    - from my point of view, this is too complicated
+    - I personally don't agree with that approach
+    - the way I understand it, we're off track
+    - I've noticed that this usually fails
+    - based on what I've seen, that's not the answer
+    - I get the feeling we're overthinking this
+    - from my understanding, that's not how it works
+    - I'm convinced there's a better way
+    - the way I look at it, we need to start over
+    - I have a different take on this
+    - I'm starting to think we're wrong about this
+    - my gut tells me this isn't right
+    - from what I remember, that's not how we learned it
+    - I believe we're approaching this wrong
+    - I've been thinking and this doesn't add up
+    - something tells me we're missing the point
+    - I reckon there's more to it than that
+    - based on my experience, this won't help
+    - I'm getting the sense we're off base here
+    - I think I'm missing something
+    - That is why it's changing
+    - This is definitely correct
+    - This is absolutely correct
+    - I'm completely sure about this
+    - about 13 meters per second at its maximum.
+    - You're such a loser.
+
+- intent: shared perspective
+  examples:
+    - I agree
+    - That is not our problem
+    - We need to gather more data
+    - We must review the literature
+    - We need to calculate this
+    - We should adjust the variables
+    - We need to redefine our goal
+    - We should do this later
+    - While the team is focused on the current method, alternative options might also be viable
+    - We might need to reconsider
+    - Our data does not indicate that
+    - Our discussion is being productive
+    - Our team is productive 
+    - Our data indicates that
+    - We think it's true, but I haven't checked
+    - Who is presenting their findings first?
+    - We should hurry up
+    - We're out of time
+    - We should start soon
+    - We're falling behind
+    - We need to focus
+    - We're almost there
+    - We should write this down
+    - We should backup
+    - We need to finish this today
+    - We should move on
+    - We're running late
+    - We need to submit this
+    - We're missing something
+    - We need more paper
+    - We're out of supplies
+    - We need to log off
+    - We need to reset
+    - We should continue with the next part
+    - Who will compile the final report?
+    - Can someone clarify the last point?
+    - Where can we find more resources on this topic?
+    - looks like we all agree this is wrong
+    - we've figured out a better way to do it
+    - our group thinks this makes more sense
+    - we're all on the same page about this
+    - our team has decided to try something else
+    - we've come to realize this isn't working
+    - everyone in our group feels this is better
+    - we've all noticed the same problem
+    - our class agrees this is too difficult
+    - we've reached the same conclusion
+    - seems like we're all thinking the same thing
+    - our team believes there's a different solution
+    - we've all come to the same understanding
+    - everyone here thinks we should change direction
+    - we're all seeing the same issues
+    - our group has found a better approach
+    - we've agreed this isn't the right way
+    - looks like we're all thinking alike
+    - we've discovered a better method together
+    - our team feels this is the wrong direction
+    - we've all reached the same opinion
+    - everyone in our group sees the problem
+    - we've decided as a team to change course
+    - our class has come to the same conclusion
+    - we're all convinced this needs to change
+    - We must consider other factors
+    - We should plot these results
+
+- intent: neutral statement
+  examples:
+    - Yes
+    - No
+    - I'll draw you one conclusion.
+    - That is it
+    - Change that
+    - Yes I did
+    - Well it is in there
+    - Alright but
+    - I am not going to
+    - It's up there
+    - That is it
+    - How can I do that?
+    - I 'll write it up here
+    - No but ask him
+    - I am sorry about that
+    - Stay with me
+    - So is there anything or not?
+    - Is that it?
+    - Yeah, just got it.
+    - Yeah, that's good.
+    - Can I have that keyboard?
+    - What's the move?
+    - That's right.
+    - In the rock.
+    - What is this?
+    - It's in there.
+    - That's it
+    - Shouldn't it be?
+    - So, isn't that right?
+    - Put that on
+    - The person, then the thing.
+    - Then maybe you'll pick it up
+    - It is up there
+    - Or the amount of energy
+    - Yes, I did.
+    - Go ahead
+    - Oh, my God
+    - I am not going to lie
+    - I guess
+    - Yes but
+    - I've always written this.
+    - I did
+    - I did not check this
+    - I haven't checked yet
+    - do you understand what to do?
+    - what should you do?
+    - which one are you now?
+    - Hi
+    - Not sure
+    - I'm there too
+    - Really no need to be scared
+    - but it is a bit of a strange sentence
+    - but with the first one
+    - I'm checking the next step
+    - I'll record the observations now
+    - I'm preparing the next experiment
+    - We're compiling our findings
+    - I'll analyze the current data
+    - I'm setting up the apparatus
+    - I'll draft the report section
+    - I'm awaiting your measurements
+    - I'm verifying the procedure
+    - I'll consult additional sources
+    - I'm organizing our notes
+    - I have compiled the results in the document
+    - I recorded the measurements as instructed
+    - I found several references on the topic
+    - I will send the minutes of the meeting shortly
+    - I updated the software as required
+    - I followed the standard procedure
+    - I included all the relevant details in the report
+    - I checked the equipment before starting
+    - I accessed the database for the latest figures
+    - I listed all the potential risks in the document
+    - Can you explain the steps involved?
+    - What is the deadline for this task?
+    - The guidelines are outlined on page five
+    - How long should the presentation be?
+    - What are the criteria for the assessment?
+    - The assignment requires a summary at the end
+    - The timeline for the project is two weeks
+    - What was the outcome of the last experiment?
+    - The textbook has a chapter on this subject
+    - How many groups are participating in this?
+    - What materials do we need for the experiment?
+    - I'll write it up here
+    - It's on the other side
+    - Can you pass that over?
+    - What time is the meeting?
+    - Let me check the results
+    - The experiment is running
+    - I'm working on the calculations
+    - I'll send you the document
+    - The deadline is tomorrow
+    - Can we take a break?
+    - I haven't started yet
+    - The system is updating
+    - I'm still working on it
+    - The results are ready
+    - This needs more time
+    - Have you finished?
+    - I'll check the data
+    - The computer is slow
+    - I did the homework
+    - The test is next week
+    - Can you help me?
+    - This seems complicated
+    - Let's try again
+    - The solution is here
+    - I'm almost done
+    - We need more supplies
+    - The lab is closed
+    - I forgot my notebook
+    - The presentation is ready
+    - What's the next step?
+    - I'll ask the teacher
+    - The class is starting
+    - I can't find my pen
+    - This looks different
+    - I need a calculator
+    - The graph is complete
+    - That's correct
+    - I missed that part
+    - The book says otherwise
+    - We're on page fifty
+    - I'll do it later
+    - Can you repeat that?
+    - The answer is wrong
+    - That's not working
+    - I'll try again
+    - The screen is blank
+    - I can't open the file
+    - The printer is broken
+    - Let's check the manual
+    - I'm reading it now
+    - I need more time
+    - I'll ask for help
+    - I can't hear you
+    - The video is playing
+    - I'll make a note
+    - I don't get it
+    - The bell just rang
+    - Can we start over?
+    - I'm listening
+    - I'll look it up
+    - The chart is ready
+    - I'm waiting for the results
+    - The program crashed
+    - Let's save our work
+    - I'll finish tomorrow
+    - That's unexpected
+    - I'll try that
+    - The connection is slow
+    - I'm ready to begin
+    - The timer is set
+    - Let's review this
+    - I can't connect
+    - That's enough
+    - I'll clean up
+    - The system works
+    - how does this even work?
+    - I'm not following at all
+    - How do we solve this problem?
+    - Where can I find this?
+    - Which method should we use here?
+    - Can you explain the steps again?
+    - What does this symbol mean?
+    - Where should we start?
+    - What's the difference between these?
+    - How do these parts connect?
+    - What are the key components?
+    - What happens if we change this variable?
+    - How does this relate to the previous topic?
+    - What tools do we need for this?
+    - Why do we use this method?
+    - What's the purpose?
+    - How will this be applied?
+    - What are the requirements for this task?
+    - Can you explain why?
+    - Changes, why?
+    - What, all of a sudden?
+    - What was that?
+    - Is that the task?
+    - That changed, why?
+    - What happened?
+    - What did you do?
+    - Where did you get that?
+    - Well, what was that instruction?
+    - Then what?
+    - Did it take something to write?
+    - What's the matter?
+    - How does that affect it?
+

@@ -1,0 +1,96 @@
+- name: goal1_checkin__rule0
+  antecedents:
+    TSLM:
+    - high
+    TIME:
+    - low
+    - medium
+  consequent:
+    goal1_checkin: active
+
+- name: goal2_reorienting__rule0
+  antecedents:
+    COFF:
+    - high
+    - medium
+  consequent:
+    goal2_reorienting: active
+
+- name: goal2_peercoordination__rule0
+  antecedents:
+    L1_COO:
+    - high
+    - medium
+    L2C_AI:
+    - low
+    - not medium
+    L3_CU:
+    - high
+  consequent:
+    goal2_peercoordination: active
+
+- name: goal2_peerquestioning__rule0
+  antecedents:
+    TSLQ:
+    - high
+    - not medium
+    TIME:
+    - low
+    - medium
+  consequent:
+    goal2_peerquestioning: active
+
+- name: goal3_whatif__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    - medium
+    L2C_IN:
+    - high
+    L2C_AR:
+    - high
+    - medium
+    TSIM:
+    - high
+    - medium
+    L3_CU:
+    - low
+    L4_SS:
+    - high
+  consequent:
+    goal3_whatif: active
+
+- name: goal4_pressreasoning__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    - medium
+    L2C_IN:
+    - high
+    L2C_AR:
+    - high
+    - medium
+    TSIM:
+    - high
+    - medium
+    TACC:
+    - high
+    - medium
+  consequent:
+    goal4_pressreasoning: active
+
+- name: no_action_L2C__rule0
+  antecedents:
+    L2C_AI:
+    - high
+    - medium
+    L2C_NOS:
+    - high
+    - medium
+  consequent:
+    goal1_checkin: not_active
+    goal2_reorienting: not_active
+    goal2_peercoordination: not_active
+    goal2_peerquestioning: not_active
+    goal3_whatif: not_active
+    goal4_pressreasoning: not_active

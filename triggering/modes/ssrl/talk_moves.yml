@@ -1,0 +1,39 @@
+EN:
+  - id: cognitive
+    key: cognitive
+    value:
+      - "There seems to be some confusion in the air. Explain to each other again what you are trying to understand at the moment."
+      - "As I listen to you, I wonder if you all understand the key concepts of the exercise. What could you do to reach a common understanding of the concepts of the task?"
+      - "Please make sure you have the necessary information and tools to complete the task. Share ideas on what might help to reach a common understanding."
+
+  - id: metacognitive
+    key: metacognitive
+    value:
+      - "Hmm, I wonder if you are having trouble? Tell each other how you understand the task and how you could get on with it together?"
+      - "Good job discussing!  How could you better understand your task together?"
+      - "Excellent reflection! How could you help each other to move forward as a group?"
+      - "Talk together again about how what you are doing now will help you in your task. This will help you to move on from a difficult situation."
+
+  - id: behavioral
+    key: behavioral
+    value:
+      - "Hold on! I noticed that not everyone is necessarily involved in the task. How can you make sure that everyone can participate?"
+      - "Hmm - I wonder if everyone has had a chance to make their voice heard?"
+      - "Let's think for a moment - how does everyone feel about their participation so far?"
+      - "How could you change the way you are doing things now to make sure everyone gets involved?"
+
+  - id: socio_emotional
+    key: socio_emotional
+    value:
+      - "It seems that emotions are running a bit high. How could you have a more friendly discussion?"
+      - "Working together is sometimes challenging! How could you make sure that everyone is still on good terms?"
+      - "Everyone is needed in a well-functioning group! How could you support each other better?"
+      - "Think for a moment - how could you express your ideas without offending anyone else?"
+
+  - id: shared_perspective
+    key: shared_perspective
+    value:
+      - "Great progress! But do you think about it from your own perspective? Think about how you could make progress as a group."
+      - "I noticed that you may be thinking from your own perspective. What could be your common plan to solve the problem?"
+      - "Can I help you? Think again about what you are trying to achieve as a group. That way you will have each other's support and move forward."
+

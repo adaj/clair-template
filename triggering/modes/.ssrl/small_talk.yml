@@ -1,0 +1,23 @@
+EN:
+  greetings: "Hello, my name is Clair. To facilitate discussion, I'll occasionally pose questions."
+  ping: "Yes, I'm here. Please, discuss the activity with your partner."
+  how_are_you: "I'm fine, thanks for asking. Please, discuss the activity with your partner."
+  who_are_you: "My name is Clair, I'm a computer program and my goal is to facilitate your discussion."
+  ask_support: "What kind of help do you need? Please, try asking the teacher."
+  ask_content: "Sorry, but I'm not programmed to answer this question. Please, try asking the teacher."
+
+PT:
+  greetings: "Olá, meu nome é Clair. Para facilitar a discussão, eu ocasionalmente farei perguntas."
+  ping: "Sim, eu estou aqui. Por favor, discuta a atividade com seu parceiro."
+  how_are_you: "Eu estou bem, obrigado por perguntar. Por favor, discuta a atividade com seu parceiro."
+  who_are_you: "Meu nome é Clair, eu sou um programa de computador e meu objetivo é facilitar vossa discussão."
+  ask_support: "Que tipo de ajuda você precisa? Tente perguntar ao professor."
+  ask_content: "Desculpe, mas eu não estou programado para responder a esta pergunta. Tente perguntar ao professor."
+
+NL:
+  greetings: "Hallo, mijn naam is Clair. Om jullie in de discussie te helpen zal ik af en toe vragen stellen."
+  ping: "Ja, ik ben er. Bespreek de activiteit alsjeblieft met je partner."
+  how_are_you: "Met mij gaat het goed, bedankt voor het vragen. Bespreek de activiteit alsjeblieft met je partner."
+  who_are_you: "Mijn naam is Clair, ik ben een computerprogramma en mijn doel is uw gesprek te vergemakkelijken."
+  ask_support: "Wat voor hulp heb je nodig? Probeer het aan de leraar te vragen."
+  ask_content: "Sorry, maar ik ben niet geprogrammeerd om deze vraag te beantwoorden. Probeer het aan de leraar te vragen."

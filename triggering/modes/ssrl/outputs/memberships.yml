@@ -1,0 +1,85 @@
+- name: cognitive
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: metacognitive
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: behavioral
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: socio_emotional
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: shared_perspective
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1

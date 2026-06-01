@@ -1,0 +1,181 @@
+- name: build_on_prior_knowledge__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L2C_IN:
+    - high
+    L2C_AR:
+    - high
+    TSIM:
+    - medium
+    TACC:
+    - low
+    TIME:
+    - high
+    - medium
+  consequent:
+    build_on_prior_knowledge: active
+- name: expand_reasoning__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L2C_IN:
+    - high
+    L2C_AR:
+    - high
+    - medium
+    TSIM:
+    - high
+    - medium
+    TACC:
+    - medium
+    - low
+  consequent:
+    expand_reasoning: active
+- name: agree_disagree__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L1_COO:
+    - high
+    L2C_AR:
+    - high
+    - medium
+    TSIM:
+    - medium
+    - not low
+    TACC:
+    - high
+    - medium
+    - not low
+  consequent:
+    agree_disagree: active
+- name: linking_contributions__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L2C_IN:
+    - high
+    L2C_AR:
+    - medium
+    TSIM:
+    - medium
+    TACC:
+    - high
+  consequent:
+    linking_contributions: active
+- name: recapping__rule0
+  antecedents:
+    L1_DOM:
+    - not high
+    - medium
+    - low
+    L2C_AR:
+    - not high
+    TSIM:
+    - low
+    TIME:
+    - high
+  consequent:
+    recapping: active
+- name: example__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L2C_AR:
+    - high
+    TSIM:
+    - medium
+    TACC:
+    - medium
+    - low
+  consequent:
+    example: active
+- name: rephrasing__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L2C_AR:
+    - high
+    TSIM:
+    - high
+    TACC:
+    - high
+  consequent:
+    rephrasing: active
+- name: add_on__rule0
+  antecedents:
+    L1_DOM:
+    - high
+    L1_COO:
+    - high
+    L2C_AR:
+    - high
+    TSIM:
+    - high
+    - medium
+    - not low
+    TACC:
+    - high
+  consequent:
+    add_on: active
+- name: no_action_L1
+  antecedents:
+    L1_OFF:
+    - high
+    - medium
+  consequent:
+    build_on_prior_knowledge: not_active
+    expand_reasoning: not_active
+    agree_disagree: not_active
+    linking_contributions: not_active
+    recapping: not_active
+    example: not_active
+    rephrasing: not_active
+    add_on: not_active
+- name: no_action_question
+  antecedents:
+    L2C_AI:
+    - high
+    - medium
+  consequent:
+    build_on_prior_knowledge: not_active
+    expand_reasoning: not_active
+    agree_disagree: not_active
+    linking_contributions: not_active
+    recapping: not_active
+    example: not_active
+    rephrasing: not_active
+    add_on: not_active
+- name: no_action_L2C
+  antecedents:
+    L2C_AM:
+    - high
+    - medium
+    - not low
+    L2C_NOS:
+    - high
+    - medium
+    - not low
+  consequent:
+    build_on_prior_knowledge: not_active
+    expand_reasoning: not_active
+    agree_disagree: not_active
+    linking_contributions: not_active
+    recapping: not_active
+    example: not_active
+    rephrasing: not_active
+    add_on: not_active
+- name: no_action_PACE
+  antecedents:
+    PACE:
+    - high
+  consequent:
+    build_on_prior_knowledge: not_active
+    expand_reasoning: not_active
+    agree_disagree: not_active
+    linking_contributions: not_active
+    recapping: not_active
+    example: not_active
+    rephrasing: not_active
+    add_on: not_active

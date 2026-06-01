@@ -1,0 +1,54 @@
+- name: autonomy__rule0
+  antecedents:
+    L2C_IN:
+    - high
+    L2C_AR:
+    - high
+    - medium
+    TSIM:
+    - high
+    - medium
+    TACC:
+    - medium
+    - low
+  consequent:
+    autonomy: active
+- name: competence__rule0
+  antecedents:
+    L2C_IN:
+    - high
+    L2C_AR:
+    - medium
+    TSIM:
+    - medium
+    TACC:
+    - high
+    TIME:
+    - high
+    - medium
+  consequent:
+    competence: active
+- name: relatedness__rule0
+  antecedents:
+    L2C_AR:
+    - high
+    - medium
+    TSIM:
+    - high
+    - medium
+    - not low
+    TACC:
+    - high
+    - medium
+    - not low
+  consequent:
+    relatedness: active
+- name: no_action_question
+  antecedents:
+    L2C_AI:
+    - high
+    - medium
+  consequent:
+    competence: not_active
+    autonomy: not_active
+    relatedness: not_active

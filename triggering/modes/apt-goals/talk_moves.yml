@@ -1,0 +1,216 @@
+EN:
+  - id: goal1_checkin
+    key: Checking-in (Goal 1)
+    value:
+      - "It seems a bit quiet in this corner. Would you like to share your current progress and if there's anything you're unsure about the next steps?"
+      - "I noticed it's a bit quiet over here. Would you like to share your current progress and if there's anything you're unsure about the next steps?"
+
+  - id: goal2_reorienting
+    key: Reorienting (Goal 2)
+    value:
+      - "I'm getting a bit lost here. Shall we redirect your discussion back to the lesson?"
+      - "It is a bit hard for me to follow your discussion. Shall we talk about the  lesson again in the discussion?"
+  
+  - id: goal2_peercoordination
+    key: Peer coordination (Goal 2)
+    value:
+      - "<discussant>, do you think you can help <speaker>? Please share what you think might be a good next step."
+      - "<discussant>, could you help <speaker>? Please share what you think might be a good next step."
+
+  - id: goal2_peerquestioning
+    key: Peer questioning (Goal 2)
+    value: 
+      - "<discussant>, got any questions for <speaker> about something you are finding difficult to understand?"
+      - "<discussant>, do you think there's something <speaker> can clear up for you? Please, go ahead and ask."
+
+  - id: goal3_whatif
+    key: What-if (Goal 3)
+    value:
+      - "<speaker>, <what_if>"
+
+  - id: goal4_pressreasoning
+    key: Press for reasoning (Goal 4)
+    value:
+      - "<discussant>, could you elaborate more on what <speaker> said or give one example to illustrate?"
+      - "<discussant>, how do your ideas match what <speaker> said and what else would you like to add?"
+
+NL:
+  - id: goal1_checkin
+    key: Checking-in (Goal 1)
+    value:
+      - "Ik merk dat het een beetje stil is. Kunnen jullie met elkaar delen waar je aan werkt en wat je volgende stap zal zijn?"
+      - "Het is nu al een tijdje stil. Kunnen jullie je huidige voortgang met elkaar delen? Is er iets dat je onzeker maakt over wat je hierna gaat doen?"
+
+  - id: goal2_reorienting
+    key: Reorienting (Goal 2)
+    value:
+      - "Ik raak de draad een beetje kwijt. Zullen we het gesprek weer terugbrengen naar de les?"
+      - "Het is voor mij lastig deze discussie te volgen. Praten jullie nog wel steeds over de les? Misschien is het beter het nu weer over de les te hebben."
+  
+  - id: goal2_peercoordination
+    key: Peer coordination (Goal 2)
+    value:
+      - "<discussant>, denk je dat je <speaker> kunt helpen? Probeer met elkaar te delen wat een goede volgende stap zou zijn."
+      - "<discussant>, wil je <speaker> helpen? Probeer met elkaar te delen wat een goede volgende stap zou zijn."
+
+  - id: goal2_peerquestioning
+    key: Peer questioning (Goal 2)
+    value: 
+      - "<discussant>, heb je vragen voor <speaker> over iets dat je niet eenvoudig vindt te begrijpen?"
+      - "<discussant>, denk je dat er iets is waarbij <speaker> je kan helpen het te begrijpen? Als dat zo is, vraag het maar."
+
+  - id: goal3_whatif
+    key: What-if (Goal 3)
+    value:
+      - "<speaker>, <what_if>"
+
+  - id: goal4_pressreasoning
+    key: Press for reasoning (Goal 4)
+    value:
+      - "<discussant>, hoe zou je wat <speaker> zegt anders kunnen verwoorden, of kun je een voorbeeld geven om te illustreren wat <speaker> heeft gezegd?"
+      - "<discussant>, hoe komen jouw ideeën overeen met die van <speaker> en wat zou je nog toe willen voegen?"
+
+PT:
+ - id: goal1_checkin
+   key: Checking-in (Goal 1)
+   value:
+     - "Parece um pouco quieto por aqui. Você gostaria de compartilhar seu progresso atual e se há algo do qual você não tem certeza sobre as próximas etapas?"
+     - "Notei que está um pouco quieto por aqui. Você gostaria de compartilhar seu progresso atual e se há algo do qual você não tem certeza sobre as próximas etapas?"
+
+ - id: goal2_reorienting
+   key: Reorienting (Goal 2)
+   value:
+     - "Estou um pouco perdido aqui. Vamos redirecionar sua discussão de volta para a lição?"
+     - "Está um pouco difícil para mim acompanhar a sua discussão. Vamos conversar sobre a lição novamente na discussão?"
+
+ - id: goal2_peercoordination
+   key: Peer coordination (Goal 2)
+   value:
+     - "<discussant>, você acha que pode ajudar <speaker>? Por favor, compartilhe o que você acha que pode ser um bom próximo passo."
+     - "<discussant>, você poderia ajudar <speaker>? Por favor, compartilhe o que você acha que pode ser um bom próximo passo."
+
+ - id: goal2_peerquestioning
+   key: Peer questioning (Goal 2)
+   value:
+     - "<discussant>, tem alguma pergunta para <speaker> sobre algo que você está achando difícil de entender?"
+     - "<discussant>, você acha que há algo que <speaker> possa esclarecer para você? Por favor, vá em frente e pergunte."
+
+ - id: goal3_whatif
+   key: What-if (Goal 3)
+   value:
+     - "<speaker>, <what_if>"
+
+ - id: goal4_pressreasoning
+   key: Press for reasoning (Goal 4)
+   value:
+     - "<discussant>, você poderia elaborar mais sobre o que <speaker> disse ou dar um exemplo para ilustrar?"
+     - "<discussant>, como suas ideias se encaixam com o que <speaker> disse e o que mais você gostaria de acrescentar?"
+
+ES:
+ - id: goal1_checkin
+   key: Checking-in (Goal 1)
+   value:
+     - "Parece un poco tranquilo por aquí. ¿Te gustaría compartir tu progreso actual y si hay algo de lo que no estés seguro sobre los próximos pasos?"
+     - "Me he dado cuenta de que está un poco tranquilo por aquí. ¿Te gustaría compartir tu progreso actual y si hay algo de lo que no estés seguro sobre los próximos pasos?"
+
+ - id: goal2_reorienting
+   key: Reorienting (Goal 2)
+   value:
+     - "Estoy un poco perdido aquí. ¿Redirigimos tu discusión de nuevo a la lección?"
+     - "Me está costando un poco seguir tu discusión. ¿Hablamos de nuevo de la lección en la discusión?"
+
+ - id: goal2_peercoordination
+   key: Peer coordination (Goal 2)
+   value:
+     - "<discussant>, ¿crees que puedes ayudar a <speaker>? Por favor, comparte lo que crees que podría ser un buen próximo paso."
+     - "<discussant>, ¿podrías ayudar a <speaker>? Por favor, comparte lo que crees que podría ser un buen próximo paso."
+
+ - id: goal2_peerquestioning
+   key: Peer questioning (Goal 2)
+   value:
+     - "<discussant>, ¿tienes alguna pregunta para <speaker> sobre algo que te esté resultando difícil de entender?"
+     - "<discussant>, ¿crees que hay algo que <speaker> pueda aclararte? Por favor, adelante y pregunta."
+
+ - id: goal3_whatif
+   key: What-if (Goal 3)
+   value:
+     - "<speaker>, <what_if>"
+     
+ - id: goal4_pressreasoning
+   key: Press for reasoning (Goal 4)
+   value:
+     - "<discussant>, ¿podrías explicar más lo que dijo <speaker> o dar un ejemplo para ilustrarlo?"
+     - "<discussant>, ¿cómo encajan tus ideas con lo que dijo <speaker> y qué más te gustaría agregar?"
+
+
+DE:
+  - id: goal1_checkin
+    key: Checking-in (Goal 1)
+    value:
+      - "Es scheint hier in der Ecke recht still zu sein. Würden Sie bitte Ihren aktuellen Fortschritt teilen und uns mitteilen, ob Sie bezüglich der nächsten Schritte Unsicherheiten haben?"
+      - "Mir ist aufgefallen, dass es hier etwas ruhig ist. Würden Sie bitte Ihren aktuellen Fortschritt teilen und uns mitteilen, ob es Unklarheiten bezüglich der nächsten Schritte gibt?"
+
+  - id: goal2_reorienting
+    key: Reorienting (Goal 2)
+    value:
+      - "Ich steige hier gerade etwas aus. Sollen wir unser Gespräch wieder auf die Lektion lenken?"
+      - "Es fällt mir gerade etwas schwer, eurem Gespräch zu folgen. Sollen wir in unserem Gespräch nochmal über die Lektion sprechen?"
+
+  - id: goal2_peercoordination
+    key: Peer coordination (Goal 2)
+    value:
+      - "<discussant>, glauben Sie, dass Sie <speaker> helfen könnten? Bitte teilen Sie uns mit, was Ihrer Meinung nach der nächste Schritt sein sollte."
+      - "<discussant>, könnten Sie <speaker> unterstützen? Bitte teilen Sie uns mit, was Ihrer Meinung nach der nächste Schritt sein sollte."
+
+  - id: goal2_peerquestioning
+    key: Peer questioning (Goal 2)
+    value: 
+      - "<discussant>, haben Sie Fragen an <speaker> zu etwas, das Sie schwer zu verstehen finden?"
+      - "<discussant>, glauben Sie, dass <speaker> etwas für Sie klären könnte? Bitte stellen Sie Ihre Fragen."
+
+  - id: goal3_whatif
+    key: What-if (Goal 3)
+    value:
+      - "<speaker>, <what_if>"
+
+  - id: goal4_pressreasoning
+    key: Press for reasoning (Goal 4)
+    value:
+      - "<discussant>, könnten Sie bitte näher darauf eingehen, was <speaker> gesagt hat, oder ein Beispiel zur Veranschaulichung geben?"
+      - "<discussant>, wie passen Ihre Gedanken zu dem, was <speaker> gesagt hat und was möchten Sie noch hinzufügen"
+
+ZH:
+  - id: goal1_checkin
+    key: Checking-in (Goal 1)
+    value:
+      - "這裡似乎很安靜。可以請你們分享一下目前的進度，並告訴我你們對接下來的步驟有沒有不確定的地方嗎？"
+      - "我發現這裡有點安靜。可以請你們分享一下目前的進度，並告訴我你們對接下來的步驟有沒有不確定的地方嗎？"
+      
+  - id: goal2_reorienting
+    key: Reorienting (Goal 2)
+    value:
+      - "我有点儿迷失了方向。我们还是把话题拉回课程吧？"
+      - "我有点儿难以理解你们的讨论。我们还是在讨论中重新谈谈课程内容吧？"
+  
+  - id: goal2_peercoordination
+    key: Peer coordination (Goal 2)
+    value:
+      - "<discussant>，你認為你能協助<speaker>嗎？請告訴我們你認為接下來最佳的步驟是什麼。"
+      - "<discussant>，你能夠幫助<speaker>嗎？請分享你認為接下來理想的步驟應該是什麼。"
+
+  - id: goal2_peerquestioning
+    key: Peer questioning (Goal 2)
+    value: 
+      - "<discussant>，關於這個主題中你覺得有哪些部分不太容易理解？有什麼問題想請教<speaker>嗎？"
+      - "<discussant>，有沒有什麼你希望<speaker>可以為你澄清的內容？請隨時提出你的問題。"
+
+  - id: goal3_whatif
+    key: What-if (Goal 3)
+    value:
+      - "<speaker>，<what_if>"
+
+  - id: goal4_pressreasoning
+    key: Press for reasoning (Goal 4)
+    value:
+      - "<discussant>，你能對<speaker>所述的內容作更深入的解釋，或者提供一個例子來說明嗎？"
+      - "<discussant>，你的看法與<speaker>的說法有何相符之處？你還有什麼想要補充的嗎？"

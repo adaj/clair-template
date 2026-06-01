@@ -1,0 +1,83 @@
+EN:
+  - id: goal2_peerquestioning
+    value:
+      - "Sometimes it can be quite helpful to ask questions to each other."
+  - id: goal3_whatif
+    value:
+      - "<speaker>, could you tell <discussant> why do you think so?"
+      - "<speaker>, could you tell <discussant> if it always work that way?"
+      - "<speaker>, could you tell <discussant> how did you arrive at that conclusion?"
+  - id: goal4_pressreasoning
+    value:
+      - "Thank you, <speaker>! <discussant>, how do your ideas match and what else would you like to add?"
+      - "Thank you, <speaker>! <discussant>, how would you elaborate more what <speaker> said, or could you give an example to illustrate?" 
+
+NL:
+  - id: goal2_peerquestioning
+    value:
+      - "Soms kan het goed helpen elkaar vragen te stellen."
+  - id: goal3_whatif
+    value:
+      - "<speaker>, kun je aan <discussant> vertellen waarom je er zo over denkt?"
+      - "<speaker>, kun je aan <discussant> uitleggen of het altijd zo werkt?"
+      - "<speaker>, kun je aan <discussant> uitleggen hoe je aan die conclusie komt?"
+  - id: goal4_pressreasoning
+    value:
+      - "Dank je wel, <speaker>! <discussant> denk jij er ook zo over of wil je misschien nog wat toevoegen?"
+      - "Bedankt <speaker>! <discussant>, wat zou je toe willen voegen aan wat <speaker> gezegd heeft of kun je een voorbeeld geven om te illustreren wat <speaker> heeft gezegd?" 
+
+PT:
+  - id: goal2_peerquestioning
+    value:
+      - "Às vezes, pode ser bem útil fazer perguntas um para o outro."
+  - id: goal3_whatif
+    value:
+      - "<speaker>, você pode explicar para o <discussant> por que você acha isso?"
+      - "<speaker>, você pode dizer para o <discussant> se isso sempre funciona assim?"
+      - "<speaker>, você pode contar para o <discussant> como chegou a essa conclusão?"
+  - id: goal4_pressreasoning
+    value:
+      - "Obrigado, <speaker>! <discussant>, como suas ideias se encaixam e o que mais você gostaria de acrescentar?"
+      - "Obrigado, <speaker>! <discussant>, como você explicaria melhor o que o <speaker> disse, ou poderia dar um exemplo para ilustrar?"
+
+ES:
+  - id: goal2_peerquestioning
+    value:
+      - "A veces, puede ser muy útil hacerse preguntas entre ustedes."
+  - id: goal3_whatif
+    value:
+      - "<speaker>, ¿podrías decirle a <discussant> por qué piensas eso?"
+      - "<speaker>, ¿podrías decirle a <discussant> si siempre funciona así?"
+      - "<speaker>, ¿podrías decirle a <discussant> cómo llegaste a esa conclusión?"
+  - id: goal4_pressreasoning
+    value:
+      - "¡Gracias, <speaker>! <discussant>, ¿cómo encajan tus ideas y qué más te gustaría agregar?"
+      - "¡Gracias, <speaker>! <discussant>, ¿cómo explicarías mejor lo que dijo <speaker>, o podrías dar un ejemplo para ilustrarlo?"
+
+DE:
+  - id: goal2_peerquestioning
+    value:
+      - "Manchmal kann es ganz schön hilfreich sein, sich gegenseitig Fragen zu stellen."
+  - id: goal3_whatif
+    value:
+      - "<speaker>, kannst du <discussant> sagen, warum du das denkst?"
+      - "<speaker>, kannst du <discussant> sagen, ob das immer so funktioniert?"
+      - "<speaker>, kannst du <discussant> sagen, wie du zu diesem Schluss gekommen bist?"
+  - id: goal4_pressreasoning
+    value:
+      - "Danke, <speaker>! <discussant>, wie passen deine Ideen zusammen und was würdest du noch hinzufügen wollen?"
+      - "Danke, <speaker>! <discussant>, wie würdest du das, was <speaker> gesagt hat, noch besser erklären können, oder kannst du ein Beispiel nennen, um es zu verdeutlichen?"
+
+ZH:
+  - id: goal2_peerquestioning
+    value:
+      - "有时，互相提问会非常有用"
+  - id: goal3_whatif
+    value:
+      - "<speaker>，你可以告訴 <discussant> 你為什麼這麼想嗎？"
+      - "<speaker>，你可以告訴 <discussant> 它是否總是這樣運作嗎？"
+      - "<speaker>，你可以告訴 <discussant> 你是如何得出這個結論的嗎？"
+  - id: goal4_pressreasoning
+    value:
+      - "謝謝<speaker>！<discussant>，你的想法如何相互匹配，你还有什么想補充的嗎？"
+      - "謝謝<speaker>！<discussant>，你如何更详细地解释 <speaker> 所说的话，或者你能否举个例子来说明一下？"

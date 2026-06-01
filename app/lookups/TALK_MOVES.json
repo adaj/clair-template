@@ -1,0 +1,128 @@
+{
+  "EN": [
+    {
+      "id": "build_on_prior_knowledge",
+      "key": "Build on prior knowledge",
+      "value": "<speaker>, how does this connect with what we have discussed so far?"
+    },
+    {
+      "id": "expand_reasoning",
+      "key": "Expand reasoning",
+      "value": "<speaker>, could you elaborate on this?"
+    },
+    {
+      "id": "agree_disagree",
+      "key": "Agree/Disagree",
+      "value": "<discussant>, do you agree or disagree with your partner?"
+    },
+    {
+      "id": "linking_contributions",
+      "key": "Linking contributions",
+      "value": "<discussant>, how does this align with what your partner just said?"
+    },
+    {
+      "id": "recapping",
+      "key": "Recapping",
+      "value": "This has been interesting. Could someone summarize what we have talked about up until now?"
+    },
+    {
+      "id": "example",
+      "key": "Example",
+      "value": "<speaker>, could you give an example?"
+    },
+    {
+      "id": "rephrasing",
+      "key": "Rephrasing",
+      "value": "<discussant>, could you put in other words what your partner just said?"
+    },
+    {
+      "id": "add_on",
+      "key": "Add-on",
+      "value": "<discussant>, would you like to add something to what your partner just said?"
+    }
+  ],
+  "PT": [
+    {
+      "id": "build_on_prior_knowledge",
+      "key": "Construir sobre conhecimento prévio",
+      "value": "<speaker>, como isso se conecta com o que discutimos até agora?"
+    },
+    {
+      "id": "expand_reasoning",
+      "key": "Expandir o raciocínio",
+      "value": "<speaker>, você poderia elaborar mais sobre isso?"
+    },
+    {
+      "id": "agree_disagree",
+      "key": "Concordar/desacordar",
+      "value": "<discussant>, você concorda ou discorda do seu parceiro?"
+    },
+    {
+      "id": "linking_contributions",
+      "key": "Vinculação de contribuições",
+      "value": "<discussant>, como isso se alinha com o que seu parceiro acabou de dizer?"
+    },
+    {
+      "id": "recapping",
+      "key": "Recapitular",
+      "value": "Isto tem sido interessante. Alguém poderia resumir o que temos falado até agora?"
+    },
+    {
+      "id": "example",
+      "key": "Exemplificar",
+      "value": "<speaker>, você poderia dar um exemplo?"
+    },
+    {
+      "id": "rephrasing",
+      "key": "Refrasear",
+      "value": "<discussant>, você poderia colocar em outras palavras o que seu parceiro acabou de dizer?"
+    },
+    {
+      "id": "add_on",
+      "key": "Complementar",
+      "value": "<discussant>, você gostaria de acrescentar algo ao que seu parceiro acabou de dizer?"
+    }
+  ],
+  "NL": [
+    {
+      "id": "build_on_prior_knowledge",
+      "key": "Voortbouwen op voorkennis",
+      "value": "<speaker>, hoe hangt dit samen met wat we tot nu toe besproken hebben?"
+    },
+    {
+      "id": "expand_reasoning",
+      "key": "Uitbreiden redenering",
+      "value": "<speaker>, kun je hier dieper op ingaan?"
+    },
+    {
+      "id": "agree_disagree",
+      "key": "Mee eens/niet mee eens",
+      "value": "<discussant>, bent u het eens of oneens met uw partner?"
+    },
+    {
+      "id": "linking_contributions",
+      "key": "Bijdragen koppelen",
+      "value": "<discussant>, hoe komt dit overeen met wat je partner net zei?"
+    },
+    {
+      "id": "recapping",
+      "key": "Recapping",
+      "value": "Dit is interessant geweest. Kan iemand samenvatten waar we het tot nu toe over gehad hebben?"
+    },
+    {
+      "id": "example",
+      "key": "Voorbeeld",
+      "value": "<speaker>, zou je een voorbeeld kunnen geven?"
+    },
+    {
+      "id": "rephrasing",
+      "key": "Herformuleren",
+      "value": "<discussant>, kunt u in andere woorden weergeven wat uw partner zojuist zei?"
+    },
+    {
+      "id": "add_on",
+      "key": "Toevoeging",
+      "value": "<discussant>, wil je nog iets toevoegen aan wat je partner net zei?"
+    }
+  ]
+}

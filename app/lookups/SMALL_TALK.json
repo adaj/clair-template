@@ -1,0 +1,98 @@
+{
+  "EN": [
+    {
+      "id": "greetings",
+      "key": "greetings",
+      "value": "Hello, my name is Clair. To facilitate discussion, I'll occasionally pose questions."
+    },
+    {
+      "id": "ping",
+      "key": "ping",
+      "value": "Yes, I'm here. Please, discuss the activity with your partner."
+    },
+    {
+      "id": "how_are_you",
+      "key": "how_are_you",
+      "value": "I'm fine, thanks for asking. Please, discuss the activity with your partner."
+    },
+    {
+      "id": "who_are_you",
+      "key": "who_are_you",
+      "value": "My name is Clair, I'm a conversational agent. My goal is to facilitate your discussion."
+    },
+    {
+      "id": "ask_support",
+      "key": "ask_support",
+      "value": "What kind of help do you need? Please, try asking the teacher."
+    },
+    {
+      "id": "ask_content",
+      "key": "ask_content",
+      "value": "Sorry, but I'm not programmed to answer this question. Do <discussant> know the answer?"
+    }
+  ],
+  "PT": [
+    {
+      "id": "greetings",
+      "key": "greetings",
+      "value": "Olá, meu nome é Clair. Para facilitar a discussão, eu ocasionalmente farei perguntas."
+    },
+    {
+      "id": "ping",
+      "key": "ping",
+      "value": "Sim, eu estou aqui. Por favor, discuta a atividade com seu parceiro."
+    },
+    {
+      "id": "how_are_you",
+      "key": "how_are_you",
+      "value": "Eu estou bem, obrigado por perguntar. Por favor, discuta a atividade com seu parceiro."
+    },
+    {
+      "id": "who_are_you",
+      "key": "who_are_you",
+      "value": "Meu nome é Clair, eu sou uma agente de conversação. Meu objetivo é facilitar sua discussão."
+    },
+    {
+      "id": "ask_support",
+      "key": "ask_support",
+      "value": "Que tipo de ajuda você precisa? Tente perguntar ao professor."
+    },
+    {
+      "id": "ask_content",
+      "key": "ask_content",
+      "value": "Desculpe, mas eu não estou programado para responder a esta pergunta. Será que <discussant> sabe a resposta?"
+    }
+  ],
+  "NL": [
+    {
+      "id": "greetings",
+      "key": "greetings",
+      "value": "Hallo, mijn naam is Clair. Om jullie in de discussie te helpen zal ik af en toe vragen stellen."
+    },
+    {
+      "id": "ping",
+      "key": "ping",
+      "value": "Ja, ik ben er. Bespreek de activiteit  alsjeblieft met je partner."
+    },
+    {
+      "id": "how_are_you",
+      "key": "how_are_you",
+      "value": "Met mij gaat het goed, bedankt voor het vragen. Bespreek de activiteit alsjeblieft met je partner."
+    },
+    {
+      "id": "who_are_you",
+      "key": "who_are_you",
+      "value": "Mijn naam is Clair, ik ben een gespreksagent. Mijn doel is uw gesprek te vergemakkelijken."
+    },
+    {
+      "id": "ask_support",
+      "key": "ask_support",
+      "value": "Wat voor hulp heb je nodig? Probeer het aan de leraar te vragen."
+    },
+    {
+      "id": "ask_content",
+      "key": "ask_content",
+      "value": "Sorry, maar ik ben niet geprogrammeerd om deze vraag te beantwoorden. Weet <discussant> het antwoord?"
+    }
+  ]
+}

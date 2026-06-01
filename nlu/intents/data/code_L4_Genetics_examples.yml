@@ -1,0 +1,61 @@
+- intent: statement1
+  examples:
+    - "Traits are hereditary, such as hair and eye color."
+    - "Traits are hereditary, such as hair and eye color."
+
+- intent: statement2
+  examples:    
+    - "Phenotype refers to the observable characteristics of an organism."
+    - "Phenotype refers to the observable characteristics of an organism."
+
+- intent: statement3
+  examples:
+    - "Alleles are different versions of a gene, like different flavors of ice cream."
+    - "Alleles are different versions of a gene, like different flavors of ice cream."
+
+- intent: statement4
+  examples:
+    - "Genotype refers to the specific combination of alleles an organism has."
+    - "Genotype refers to the specific combination of alleles an organism has."
+  
+- intent: statement5
+  examples:
+    - "Dominant alleles are like the stronger siblings, and Recessive alleles are like the shy siblings."
+    - "Dominant alleles are like the stronger siblings, and Recessive alleles are like the shy siblings."
+
+- intent: statement6
+  examples:
+    - "Gametes are special cells involved in reproduction - eggs in females and sperm in males."
+    - "Gametes are special cells involved in reproduction - eggs in females and sperm in males."
+    
+- intent: statement7
+  examples:
+    - "Homozygous means having two identical alleles for a gene."
+    - "Homozygous means having two identical alleles for a gene."
+
+
+- intent: none of the specified
+  examples:
+    - "Hello!"
+    - "Goodbye!"
+    - "What time is our next session?"
+    - "Can we have a break now?"
+    - "I have already completed the assignment."
+    - "I didn't understand the homework assignment."
+    - "This topic seems really complicated to me."
+    - "How many pages do we need to write for our report?"
+    - "I liked our last class on astronomy more."
+    - "Can someone help me with this math problem?"
+    - "Is this going to be on the test?"
+    - "I'm really hungry, can we eat soon?"
+    - "I missed the last class, what did I miss?"
+    - "Sorry, I didn't hear that, could you repeat it?"
+    - "I'm not sure I'm in the right Zoom meeting."
+    - "Does anyone want to form a study group after class?"
+    - "I was late today, did I miss anything important?"
+    - "I think there's a mistake in the syllabus schedule."
+    - "Are we allowed to use calculators during exams?"
+    - "I need to leave class early today for an appointment."
+    - "Can we discuss our project groups?"
+    - "I'm having trouble logging into the classroom portal."
+    - "Who else is excited for the school trip next week?"

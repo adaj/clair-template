@@ -1,0 +1,10 @@
+__pycache__
+*.egg-info
+*.DS_store
+*.ipynb_checkpoints
+*.xlsx
+.vscode
+models
+experimental
+evaluation
+wandb

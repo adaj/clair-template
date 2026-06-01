@@ -1,0 +1,102 @@
+- name: goal1_checkin
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: goal2_reorienting
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: goal2_peercoordination
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: goal2_peerquestioning
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: goal3_whatif
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: goal4_pressreasoning
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1

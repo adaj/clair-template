@@ -1,0 +1,61 @@
+- intent: statement1
+  examples:
+    - "A particle of the substance being digested exactly matches the shape of the enzyme."
+
+- intent: statement2
+  examples:    
+    - "A reaction takes place in which the nutrient is split into two new particles (the digestion products)."
+
+- intent: statement3
+  examples:
+    - "After the particles detach from the enzyme, the enzyme can now react with the next particle of nutrient."
+
+- intent: statement4
+  examples:
+    - "The function of digestion is to convert nutrients that cannot be absorbed into the blood through the intestinal wall into digestion products that can be absorbed into the blood."
+
+- intent: statement5
+  examples:
+    - "Substances that do not need to be digested are: glucose, minerals, vitamins and water."
+
+- intent: statement6
+  examples:
+    - "Mechanical digestion is dividing food into small pieces by chewing."
+
+- intent: statement7
+  examples:
+    - "Chemical digestion is converting the nutrients using digestive juices made by digestive glands. "
+
+- intent: statement8
+  examples:
+    - "Enzymes work on the key-lock principle."
+
+- intent: statement9
+  examples:
+    - "The enzyme in saliva does not work at temperatures around freezing and boiling points."
+
+- intent: none of the specified
+  examples:
+    - "Hello!"
+    - "Goodbye!"
+    - "What time is our next session?"
+    - "Can we have a break now?"
+    - "I have already completed the assignment."
+    - "I didn't understand the homework assignment."
+    - "This topic seems really complicated to me."
+    - "How many pages do we need to write for our report?"
+    - "I liked our last class on astronomy more."
+    - "Can someone help me with this math problem?"
+    - "Is this going to be on the test?"
+    - "I'm really hungry, can we eat soon?"
+    - "I missed the last class, what did I miss?"
+    - "Sorry, I didn't hear that, could you repeat it?"
+    - "I'm not sure I'm in the right Zoom meeting."
+    - "Does anyone want to form a study group after class?"
+    - "I was late today, did I miss anything important?"
+    - "I think there's a mistake in the syllabus schedule."
+    - "Are we allowed to use calculators during exams?"
+    - "I need to leave class early today for an appointment."
+    - "Can we discuss our project groups?"
+    - "I'm having trouble logging into the classroom portal."
+    - "Who else is excited for the school trip next week?"

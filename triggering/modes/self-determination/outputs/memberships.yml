@@ -1,0 +1,51 @@
+- name: autonomy
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: competence
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
+- name: relatedness
+  range:
+  - 0
+  - 1
+  terms:
+  - name: active
+    fn: trimf
+    abc:
+    - 0
+    - 1
+    - 1
+  - name: not_active
+    fn: trimf
+    abc:
+    - 0
+    - 0
+    - 1
